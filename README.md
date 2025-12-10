@@ -1,4 +1,4 @@
-# Convolutional-Neural-Networks-CNNs-_Bootcamp
+# Convolutional-Neural-Networks-CNNs_Bootcamp
 This folder contains a collection of bootcamp notebooks and experimental deep learning models created using Google Colab. These notebooks focus on implementing and understanding key deep learning architectures including CNNs
 
 # 🧠 1. CNN_Bootcamp.ipynb
